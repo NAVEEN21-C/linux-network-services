@@ -19,7 +19,7 @@ Automated setup of enterprise-grade DNS (BIND9) and FTP (vsftpd) servers with ba
 
 ## Quick Start
 ```bash
-git clone [your-repo]
+git clone []
 cd linux-server-project
 chmod +x scripts/*.sh
 ./scripts/deploy_servers.sh
